@@ -1,0 +1,22 @@
+tile_page_creatures_mumbling
+
+[OBJECT:TILE_PAGE]
+[TILE_PAGE:KOBOLD_BODY]
+	[FILE:images/kobold_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:KOBOLD_CLOTHING]
+	[FILE:images/kobold_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:KOBOLD_ARMOR]
+	[FILE:images/kobold_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:768]
+
+[TILE_PAGE:KOBOLD_WIELDABLES]
+	[FILE:images/kobold_wieldables.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:960:864]

@@ -1,0 +1,22 @@
+item_mumbling_patch
+
+[OBJECT:ITEM]
+
+SHAPED BOOTS PATCH
+Reminded the militia to take their civvie shoes off BEFORE trying to put on boots.
+===================================
+[SELECT_ITEM:_ITEM_SHOES_BOOTS_LOW]
+	[SHAPED]
+	
+[SELECT_ITEM:ITEM_SHOES_BOOTS]
+	[SHAPED]
+	
+[SELECT_ITEM:ITEM_SHOES_SHOES]
+	[SHAPED]
+
+[SELECT_ITEM:ITEM_SHOES_SANDAL]
+	[SHAPED]
+
+[SELECT_ITEM:ITEM_SHOES_CHAUSSE]
+	[SHAPED]
+===================================
