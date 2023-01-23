@@ -1,7 +1,7 @@
 graphics_creatures_layered_mumbling
 
 OBJECT:GRAPHICS
-Took out layers to prevent conflicts with naut's graphics hopefully.
+Took out my layers for now until they are fixed.
 [CREATURE_GRAPHICS:KOBOLD]
 	[SKELETON_WITH_SKULL:BONE_PILE:1:0]
 	[SKELETON:BONE_PILE:0:0]
