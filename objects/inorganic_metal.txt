@@ -1,9 +1,8 @@
 inorganic_metal
 
-OBJECT:INORGANIC
-Heavily WIP and most likely needs major adjustment if you wish to test koboldite, just fix object:inorganic
+[OBJECT:INORGANIC]
 
-I used steel as a base but reduced the stats by around 25%.
+I used steel as a base but reduced the stats by around 25%. Needs proper testing to determine balance
 [INORGANIC:KOBOLDITE]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:koboldite]
